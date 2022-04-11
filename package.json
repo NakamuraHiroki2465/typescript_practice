@@ -1,0 +1,19 @@
+{
+  "name": "rxjs",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@angular/common": "^4.0.0",
+    "@types/node": "^17.0.19",
+    "fs": "latest",
+    "reader": "^0.0.8",
+    "rxjs": "latest"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
